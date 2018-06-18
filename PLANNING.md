@@ -6,7 +6,7 @@ Sometimes, it is hard to find a restaurant grade in front of a restaurant.
 NYC department of Health offers a list of restaurant status.
 As a user it is time consuming to look through every restaurant on the list and this data keeps changing and updating by an inspection date.
 Yelp and google restaurant reviews show how food and service is good but no restaurant grade.
-Set a set of data of under B grade by location and map(longitude and latitude) a user can navigate a restaurant within  a safe range.
+Set a set of data of under B grade or even critical status of grade A by location and map(longitude and latitude) a user can navigate a restaurant within  a safe range.
 
 ## Information Requirements
 
