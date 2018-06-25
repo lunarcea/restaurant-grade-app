@@ -26,7 +26,7 @@ API: NYC open data - Restaurant Grades
 
 ### Python Package Requirements
 
-Requests, Json, and gnplot
+Requests and Json
 
 ### Hardware Requirements
 
