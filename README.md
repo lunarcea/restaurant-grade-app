@@ -6,7 +6,7 @@ You can search by name, grade, location(zip code) or cuisine category.
 ## Installation
 To install, first, download the source code for this repo:
 ```shell
-git clone git@github.com:lunarcea/my-freestyle-project.git
+git clone git@github.com:lunarcea/restaurant-grade-app.git
 cd my-freestyle-project
 ```
 
